@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes>
+  <note>
+    <to>Tove</to>
+    <from>Jani</from>
+    <heading>Reminder</heading>
+    <message>Don't forget me this weekend!</message>
+  </note>
+  <note>
+    <to>John</to>
+    <from>Mary</from>
+    <heading>Meeting</heading>
+    <message>Remember to bring the presentation slides.</message>
+  </note>
+  <note>
+    <to>Sarah</to>
+    <from>David</from>
+    <heading>Appointment</heading>
+    <message>Your appointment with the doctor is at 2 PM.</message>
+  </note>
+  <note>
+    <to>Emily</to>
+    <from>Michael</from>
+    <heading>Shopping List</heading>
+    <message>Here's the shopping list for groceries: milk, eggs, bread, and butter.</message>
+  </note>
+  <note>
+    <to>Alex</to>
+    <from>Lisa</from>
+    <heading>Task Reminder</heading>
+    <message>Complete the report by the end of the day.</message>
+  </note>
+  <note>
+    <to>Robert</to>
+    <from>Jessica</from>
+    <heading>Travel Plans</heading>
+    <message>We'll leave for the vacation on Friday morning.</message>
+  </note>
+</notes>
